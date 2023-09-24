@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Paytm Java Bank</name>
+	<name>Java Swing Bank</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,6 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1688213554171</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
